@@ -3,7 +3,7 @@
 ## CAD Nomenclature:
 
 Part files:
- [Assembly #][Part #]_[part description]
+ [Assembly #][Part #]_[part description]_[carnyx reference]
  
 Subassembly files:
  [Assembly #]00_[subassembly description]
@@ -16,3 +16,9 @@ Assembly numbers:
 * 04 - snout
 * 05 - ears
 * 06 - palate
+
+Carnyx reference notation:
+D - Deskford
+T - Tintignac
+M - Mandeur
+S - Sanzeno
