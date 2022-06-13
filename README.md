@@ -18,7 +18,7 @@ Assembly numbers:
 * 06 - palate
 
 Carnyx reference notation:
-D - Deskford
-T - Tintignac
-M - Mandeur
-S - Sanzeno
+* D - Deskford
+* T - Tintignac
+* M - Mandeur
+* S - Sanzeno
