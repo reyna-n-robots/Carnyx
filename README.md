@@ -20,5 +20,5 @@ Assembly numbers:
 Carnyx reference notation:
 * D - Deskford
 * T - Tintignac
-* M - Mandeur
+* M - Mandeure
 * S - Sanzeno
